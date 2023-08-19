@@ -1,19 +1,29 @@
 # 🍃 Opa! Sou o João
-> 🌱 Cursando SI
-
-<a href="https://github-readme-stats.vercel.app/api?username=ownaka&show_icons=true&theme=vue-dark">
-  <img align="center"  src="https://github-readme-stats.vercel.app/api?username=ownaka&show_icons=true&theme=vue-dark" />
-</a>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=ownaka&layout=donut&theme=vue-dark">
-  <img align="center" width="320px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ownaka&layout=donut&theme=vue-dark" />
-</a>
-
+### Sobre mim
+- 🌱 Estudante de Sistema da Informação
+- 🎨 Designer de Interface
+- 
+### Linguagens
 <div>
-
-<a><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" ></a>
-<a><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" ></a>
-<a><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" ></a>
-<a><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" ></a>
-<a><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" ></a>
-<a><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" ></a>
-</div> 
+  <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="max-width: 100%;"></code>
+  <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="max-width: 100%;"></code>
+  <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="max-width: 100%;"></code>
+  <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="max-width: 100%;"></code>
+  <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" style="max-width: 100%;"></code>
+</div></br>
+<table>
+<tr>
+    <th >
+      <!-- Status Card -->
+      <a hide_border="true" href="https://github-readme-stats.vercel.app/api?username=ownaka&show_icons=true&theme=graywhite">
+          <img align="center" hide_border="true" src="https://github-readme-stats.vercel.app/api?username=ownaka&show_icons=true&theme=graywhite" />
+      </a>
+    </th>
+    <th>
+      <!-- Top Lang Card -->
+      <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=ownaka&layout=compact&theme=graywhite">
+          <img align="center" width="320px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ownaka&layout=compact&theme=graywhite" />
+      </a>
+    </th>
+</tr>
+</table>
