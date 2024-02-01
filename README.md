@@ -1,6 +1,5 @@
 
 # 🍃 Olá! Sou o João
-- 🤓 I’m currently working on [website-lares](https://github.com/ownaka/website-lares)
 - 📫 How to reach me johnqueiroz@outlook.com.br
 ## 🪐 Languagens and Tools
 <div>
