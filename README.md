@@ -8,6 +8,5 @@
     <li>Email<a href=''> johnqueiroz02@gmail.com</a></li>
     <li>Discord<a href=''> ownaka</a></li>
     <li>Steam<a href='https://steamcommunity.com/id/ownaka/'> ownaka</a></li>
-    <li>Git<a href='https://github.com/ownaka'> ownaka</a></li>
     <li>Telegram<a href=''> ownaka</a></li>
 </ul>
