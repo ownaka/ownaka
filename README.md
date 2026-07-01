@@ -9,4 +9,5 @@
     <li>Discord<a href=''> ownaka</a></li>
     <li>Steam<a href='https://steamcommunity.com/id/ownaka/'> ownaka</a></li>
     <li>Telegram<a href=''> ownaka</a></li>
+    <li>X<a href='https://x.com/ownaka_kun'> ownaka_kun</a></li>
 </ul>
