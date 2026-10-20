@@ -14,7 +14,17 @@ Mantendo o [**O-Ink**](https://github.com/ownaka/obsidian-o-ink), meu tema para 
 
 #### ▸ No dia a dia
 
-`Debian` · `CachyOS` · `Docker` · `Proxmox` · `pfSense` · `UniFi` · `Tailscale` · `Cloudflare` · `ZFS` · `HTML/CSS`
+![Debian](https://img.shields.io/badge/Debian-141414?style=flat-square&logo=debian&logoColor=e6e1d5)
+![CachyOS](https://img.shields.io/badge/CachyOS-141414?style=flat-square&logo=archlinux&logoColor=e6e1d5)
+![Docker](https://img.shields.io/badge/Docker-141414?style=flat-square&logo=docker&logoColor=e6e1d5)
+![Proxmox](https://img.shields.io/badge/Proxmox-141414?style=flat-square&logo=proxmox&logoColor=e6e1d5)
+![pfSense](https://img.shields.io/badge/pfSense-141414?style=flat-square&logo=pfsense&logoColor=e6e1d5)
+![UniFi](https://img.shields.io/badge/UniFi-141414?style=flat-square&logo=ubiquiti&logoColor=e6e1d5)
+![Tailscale](https://img.shields.io/badge/Tailscale-141414?style=flat-square&logo=tailscale&logoColor=e6e1d5)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-141414?style=flat-square&logo=cloudflare&logoColor=e6e1d5)
+![HTML](https://img.shields.io/badge/HTML-141414?style=flat-square&logo=html5&logoColor=e6e1d5)
+![CSS](https://img.shields.io/badge/CSS-141414?style=flat-square&logo=css&logoColor=e6e1d5)
+![Obsidian](https://img.shields.io/badge/Obsidian-141414?style=flat-square&logo=obsidian&logoColor=689d6a)
 
 #### ▸ Fora da tela
 
