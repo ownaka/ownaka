@@ -1,5 +1,7 @@
 ### ☵ ownaka
 
+<img align="right" src="assets/typing.gif" width="240" alt="ownaka digitando">
+
 Oi, eu sou o **João**. Sou de Barretos, interior de São Paulo, e desde sempre fui dos PCs.
 
 Gosto de entender como as coisas funcionam por dentro: redes, servidores Linux, self-hosting e um homelab que quase nunca desliga. Depois de cuidar da infraestrutura de TI de um resort, hoje trabalho por conta própria e uso o tempo livre pra tirar ideias do papel.
