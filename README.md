@@ -76,7 +76,13 @@ Design, games, filosofia, pixel art e tecnologia analógica. Sempre com um café
 
 <samp>[CONTATO]</samp>
 
-[site](https://ownaka.net) · [e-mail](mailto:jv.prado@tutamail.com) · [linkedin](https://www.linkedin.com/in/joaoqueirozprado/) · [x](https://x.com/ownaka_kun) · [telegram](https://t.me/ownaka) · discord e steam: **ownaka**
+[![ownaka.net](https://img.shields.io/badge/ownaka.net-141414?style=flat-square)](https://ownaka.net)
+[![E--mail](https://img.shields.io/badge/E--mail-141414?style=flat-square&logo=tuta&logoColor=e6e1d5)](mailto:jv.prado@tutamail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-141414?style=flat-square)](https://www.linkedin.com/in/joaoqueirozprado/)
+[![X](https://img.shields.io/badge/X-141414?style=flat-square&logo=x&logoColor=e6e1d5)](https://x.com/ownaka_kun)
+[![Telegram](https://img.shields.io/badge/Telegram-141414?style=flat-square&logo=telegram&logoColor=e6e1d5)](https://t.me/ownaka)
+![Discord](https://img.shields.io/badge/Discord-ownaka-222222?style=flat-square&logo=discord&logoColor=e6e1d5&labelColor=141414)
+![Steam](https://img.shields.io/badge/Steam-ownaka-222222?style=flat-square&logo=steam&logoColor=e6e1d5&labelColor=141414)
 
 </td>
 </tr>
