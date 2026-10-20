@@ -1,20 +1,48 @@
-### ☵ ownaka
+<table>
+<tr>
+<td width="62%" valign="top">
 
-<img align="right" src="assets/typing.gif" width="240" alt="ownaka digitando">
+<samp>[SOBRE]</samp>
 
-Oi, eu sou o **João**. Sou de Barretos, interior de São Paulo, e desde sempre fui dos PCs.
+### ☵ Oi, eu sou o João.
+
+Sou de Barretos, interior de São Paulo, e desde sempre fui dos PCs.
 
 Gosto de entender como as coisas funcionam por dentro: redes, servidores Linux, self-hosting e um homelab que quase nunca desliga. Depois de cuidar da infraestrutura de TI de um resort, hoje trabalho por conta própria e uso o tempo livre pra tirar ideias do papel.
 
-> Entender como algo funciona por dentro é a melhor parte. Explicar pra alguém é a segunda.
+</td>
+<td width="38%" align="center" valign="middle">
 
----
+<img src="assets/typing.gif" width="240" alt="ownaka digitando">
 
-#### ▸ Agora
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<samp>[AGORA]</samp>
 
 Mantendo o [**O-Ink**](https://github.com/ownaka/obsidian-o-ink), meu tema para o Obsidian que já está no diretório oficial da comunidade, e escrevendo no [ownaka.net](https://ownaka.net).
 
-#### ▸ No dia a dia
+</td>
+<td width="50%" valign="top">
+
+<samp>[FORA DA TELA]</samp>
+
+Design, games, filosofia, pixel art e tecnologia analógica. Sempre com um café por perto. ☕
+
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td>
+
+<samp>[NO DIA A DIA]</samp>
 
 ![Debian](https://img.shields.io/badge/Debian-141414?style=flat-square&logo=debian&logoColor=e6e1d5)
 ![CachyOS](https://img.shields.io/badge/CachyOS-141414?style=flat-square&logo=archlinux&logoColor=e6e1d5)
@@ -28,14 +56,28 @@ Mantendo o [**O-Ink**](https://github.com/ownaka/obsidian-o-ink), meu tema para 
 ![CSS](https://img.shields.io/badge/CSS-141414?style=flat-square&logo=css&logoColor=e6e1d5)
 ![Obsidian](https://img.shields.io/badge/Obsidian-141414?style=flat-square&logo=obsidian&logoColor=689d6a)
 
-#### ▸ Fora da tela
+</td>
+</tr>
+</table>
 
-Design, games, filosofia, pixel art e tecnologia analógica. Sempre com um café por perto. ☕
+<table>
+<tr>
+<td align="center">
 
----
+<samp>Entender como algo funciona por dentro é a melhor parte. Explicar pra alguém é a segunda.</samp>
 
-#### ▸ Onde me encontrar
+</td>
+</tr>
+</table>
 
-[site](https://ownaka.net) · [e-mail](mailto:jv.prado@tutamail.com) · [linkedin](https://www.linkedin.com/in/joaoqueirozprado/) · [x](https://x.com/ownaka_kun) · [telegram](https://t.me/ownaka)
+<table>
+<tr>
+<td>
 
-Discord e Steam: **ownaka**
+<samp>[CONTATO]</samp>
+
+[site](https://ownaka.net) · [e-mail](mailto:jv.prado@tutamail.com) · [linkedin](https://www.linkedin.com/in/joaoqueirozprado/) · [x](https://x.com/ownaka_kun) · [telegram](https://t.me/ownaka) · discord e steam: **ownaka**
+
+</td>
+</tr>
+</table>
